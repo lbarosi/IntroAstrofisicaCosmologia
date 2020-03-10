@@ -71,6 +71,6 @@ Uma quarta nota será atribuída para a participação do aluno no curso.
 
 ### Bibliografia
 
-Caroll B. W., Ostlie D. A., \textbf{An Introduction to Modern Astrophysics}, 2ª ed. (Pearson, 2014)
-Ryden B., Peterson B. W., \textbf{Foundations of Astrophysics}, (Pearson, 2010)
-Ryden B., \textbf{Introduction to Cosmology} 2ªed, (Pearson, 2017)
+Caroll B. W., Ostlie D. A., **An Introduction to Modern Astrophysics**, 2ª ed. (Pearson, 2014)
+Ryden B., Peterson B. W., **Foundations of Astrophysics**, (Pearson, 2010)
+Ryden B., **Introduction to Cosmology** 2ªed, (Pearson, 2017)
