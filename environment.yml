@@ -170,6 +170,10 @@ dependencies:
   - qtpy=1.9.0=py_0
   - readline=8.0=hf8c457e_0
   - requests=2.23.0=py37_0
+<<<<<<< HEAD
+=======
+  - rise=5.6.1=py37_0
+>>>>>>> 891f8ea4abd66e32e8b3d8498cb2e8bde89373f2
   - schwimmbad=0.3.0=py37_2
   - scikit-learn=0.22.2.post1=py37hcdab131_0
   - scipy=1.4.1=py37h921218d_0
