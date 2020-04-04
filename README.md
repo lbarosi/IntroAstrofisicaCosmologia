@@ -7,6 +7,8 @@
 ### Professor
 **Luciano Barosi**: lbarosi@df.ufcg.edu.br
 
+*Você pode executar os notebooks bom o* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lbarosi/IntroAstrofisicaCosmologia/master)
+
 **O material deste curso é muito influenciado pelo curso de Barbara Ryden na Universidade Estadual de Ohio, [ASTRONOMY 292 - STELLAR, GALACTIC, & EXTRAGALACTIC ASTRONOMY & ASTROPHYSICS](!http://www.astronomy.ohio-state.edu/~ryden/ast292.html). As semelhanças não são meras coincidências**
 
 ### Ementa
